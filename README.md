@@ -1,3 +1,14 @@
+# Packages Used
+pyautogui
+
+keyboard
+
+gtts
+
+playsound
+
+tkinter
+
 # LICENSE
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
